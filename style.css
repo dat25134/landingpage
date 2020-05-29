@@ -41,6 +41,7 @@ body{
     width: 88%;
     letter-spacing: 0.6px;
     line-height: 25px;
+    opacity: 0.8;
 }
 button{
     width: 150px;
