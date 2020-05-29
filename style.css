@@ -51,6 +51,18 @@ button{
     outline: none;
     margin-top: 50px;
 }
+.icon{
+    border: solid 1px white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 6px;
+}
+.groupIcon{
+    margin-top: 100px;
+    margin-left: 300px;
+}
 @media screen and (max-width:375px){
 .content{
     display: block;
@@ -72,4 +84,9 @@ body{
 .container_right h2{
     letter-spacing: 1px;
 }
+.groupIcon{
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
 }
