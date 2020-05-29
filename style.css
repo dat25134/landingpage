@@ -69,7 +69,6 @@ button{
     display: block;
 }
 .container_left{
-    flex: 100%;
     padding: 0px 40px;
 }
 .container_left img{
@@ -77,7 +76,6 @@ button{
     height: 250px;
 }
 .container_right{
-    flex: 100%;
 }
 body{
     text-align: center;
